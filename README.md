@@ -37,8 +37,13 @@ The dashboard includes the following key insights-
  4. Amazon, Flipkart, Myntra channels are max contributing (80%).
  5. Most of the orders are delivered (92%) compare to refund(2%),returned(3%),and cancelled(3%).
  6. March month is the peak sales period.
+    
+ Filter Data: Use the slicer on the left side to select different values for Month, Channel, and Category and it will change all the chart values accordingly.
 
-Filter Data: Use the slicer on the left side to select different values for Month, Channel, and Category and it will change all the chart values accordingly.
+ <img width="1711" height="633" alt="Screenshot 2025-10-08 100805" src="https://github.com/user-attachments/assets/a9e724e0-d6ec-404a-ae34-1fdb08947469" />
+
+
+
 
 ## Final conclusion to improve store sales:
 
